@@ -17,7 +17,7 @@ That's not a niche. That's the future.
 
 🔐 **Secure** — I think about how things break before they break. Security isn't a feature, it's a mindset.
 
-🤖 **Ship AI** — NLP, computer vision, generative AI. Not for the hype. For the problems it solves.
+🤖 **Ship AI** — NLP, generative AI. Not for the hype. For the problems it solves.
 
 ---
 
