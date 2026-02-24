@@ -1,5 +1,5 @@
 # Hey, I'm Laiba. 👋
-### I went from pushing pixels to pushing AI models. No regrets.
+### I went from pushing Web apps to pushing AI apps. No regrets.
 
 Started in web dev. Built real things. Shipped them. Broke them. Fixed them.  
 Got bored of CRUD apps. Got curious about everything else.
